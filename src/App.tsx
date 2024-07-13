@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <div>
-        <p className="text-2xl text-red-500">おはようございます</p>
+        <p className="text-2xl text-red-500">おはようございす</p>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
