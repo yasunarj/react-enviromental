@@ -18,6 +18,9 @@ export default [
       'react/jsx-no-target-blank': 'off',
       'react/no-unknown-property': 'off',
       // その他必要なルールを追加・修正する
+    },
+    settings: {
+      react: { version: "detect" },
     }
   }
 ];
